@@ -24,5 +24,15 @@ namespace TV_Ахтямов
         {
             InitializeComponent();
         }
+
+        private void BackChennel(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void NextChannel(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
